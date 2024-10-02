@@ -28,7 +28,7 @@ A tree will have a height(x)\
 	* Also known as height-balanced
 	* The left and right subtree of any node differ by not more than one
 	* An Unbalanced Tree is one that isn't balanced 
-## Traversal\
+## Traversal
 ```Python
 TreeWalk(x):
 	if x not None:
