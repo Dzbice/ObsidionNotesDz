@@ -1,5 +1,5 @@
 ## Important Vocab 
-* Limited Government
+* Limited Government ^ff97f5
 	* A governments power cannot be absolute
 	* Ideal of limited gov. is ensured by 
 		* Separation of Powers
@@ -84,3 +84,7 @@ Connecticut/Great compromise
 	Provided a formula for calc states slave population for representation(5 slaves = 3 people)
 Importation
 	Banning of import of slaves would be 1808, slaves slave laws re told then 
+
+$$
+
+$$

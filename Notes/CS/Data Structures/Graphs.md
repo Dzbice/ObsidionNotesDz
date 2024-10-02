@@ -1,0 +1,3 @@
+- Non linear data structure with a finite number of nodes i.e vertices and the edges that connect them
+- Used to address real world problems in which it represent the problem area as a network like telephone networks, circuit networks, and social networks
+- 
