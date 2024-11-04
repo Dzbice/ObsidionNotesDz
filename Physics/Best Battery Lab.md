@@ -41,4 +41,8 @@ Ignoring the fact that we messed up collecting data because we didn’t record e
 2. Once the battery reaches around .5 Volts, all its values start to nosedive, which indicates that the battery has been discharged and it’s essentially dead.
 ![[Pasted image 20241104035739.png]]
 4. Power Dispersion for individual parts was never measured so no direct comparison can be made.
-5. $\int_0^{2475}P(t) \,  dt = 5$ 
+Results for a cubic curve fit: ![[Pasted image 20241104041417.png]]
+Using this to find Energy
+$\int_0^{2475} at^3 + bt^2 + ct + d \, dt = (\frac{a}{4}t^4 + \frac{b}{3}t^3 + \frac{1}{2}ct + dt)|^{2475}_0 = 296J$
+
+
