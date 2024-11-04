@@ -36,19 +36,9 @@ Ignoring the fact that we messed up collecting data because we didn’t record e
 
   
 
-1. I wouldn’t be able to describe what other curves they look like since I don’t recognize any curve like them in the first place. A graph with an asymptote at 0 and some other number x away perhaps, but I don’t know any myself. 
+1. I wouldn’t be able to describe what other curves they look like since I don’t recognize any curve like them in the first place. I do think the graphs look like x^3 graphs though
     
 2. Once the battery reaches around .5 Volts, all its values start to nosedive, which indicates that the battery has been discharged and it’s essentially dead.
-$$\begin{align*}
-	&P_{total} = I_{total} \Delta V_{total} = I_{total}^2R_{total}\\
-	&P_{part} = I_{part} \Delta V_{part} = I^2_{part}R_{part}\\ 
-	&P_{dissipated} = \frac{P_{part}}{P_{total}} * 100 \\ \\ 
-	Ex: \\
-	&P_{total} = I\Delta V= {.62}(1.2) = .744 W\\
-	&P_{internalDissipated} = \frac{I^2R_{internal}}{P_{total}} *100 = 53.7\%\\
-	&P_{10Diss} = \frac{V^2}{R*P_{total}}*100 = 4.14\%\\
-	&P_{1Diss} = \frac{V^2}{R*P{total}} *100 = 41.2\%\\
-
-\end{align*}$$
+![[Pasted image 20241104035739.png]]
 4. Power Dispersion for individual parts was never measured so no direct comparison can be made.
 5. $\int_0^{2475}P(t) \,  dt = 5$ 
