@@ -44,6 +44,11 @@ $$\begin{align*}
 	&P_{part} = I_{part} \Delta V_{part} = I^2_{part}R_{part}\\ 
 	&P_{dissipated} = \frac{P_{part}}{P_{total}} * 100 \\ \\ 
 	Ex: \\
-	&P_{total} = \frac{V^2}{R} = \frac{1.2^2}{1.95} = 
+	&P_{total} = I\Delta V= {.62}(1.2) = .744 W\\
+	&P_{internalDissipated} = \frac{I^2R_{internal}}{P_{total}} *100 = 53.7\%\\
+	&P_{10Diss} = \frac{V^2}{R*P_{total}}*100 = 4.14\%\\
+	&P_{1Diss} = \frac{V^2}{R*P{total}} *100 = 41.2\%\\
 
 \end{align*}$$
+4. Power Dispersion for individual parts was never measured so no direct comparison can be made.
+5. $\int_0^{2475}P(t) \,  dt = 5$ 
