@@ -5,3 +5,6 @@ Child peformer as well
 
 Jane Withers\
 child actor
+
+acridness t**he sharp or bitter taste of something**
+galvanized coated with a protective layer of zinc.
