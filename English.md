@@ -1,2 +1,7 @@
 ## The Bluest Eye
-(WPM Test)
+Shirley Temple
+Former Chief of Protocol of the United States
+Child peformer as well
+
+Jane Withers\
+child actor
