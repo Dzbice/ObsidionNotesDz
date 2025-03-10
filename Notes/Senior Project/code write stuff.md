@@ -33,4 +33,4 @@ s,d: latest state and move count
 if d is greater than 20 moves it'll go to next thing
 for a in actions: i.e for every move it can make
 	does a move to cube that was made just then
-	
+then, if cube not in the heuristic, OR the move count for the cube in the huristic 
