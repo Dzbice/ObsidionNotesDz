@@ -45,3 +45,13 @@ perfect ishanten:
 2 ryanmen, 2 toitsu
 perfect nishanten
 3 ryanmen, 3 pairs
+### Complex Shapes
+Anything that doesn't constitutes on the tile blocks is a floating tile
+#### 3 tile complex
+ryankan - Double kanchan i.e 3 5 7, can make ryanmans and full wait
+- 5 diff patterns: 135,246,357,468,579
+- 2 wait on all of them. twice as much than normal kanchan
+- can sometimes be hidden so look to spot. 
+- useful when nishanten or worse. don't rely on too much
+Protorun + 1: - a proto run with a toirsu in it
+- 
