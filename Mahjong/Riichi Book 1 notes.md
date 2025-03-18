@@ -70,4 +70,68 @@ Nobetan- stetched single: 4 consecutive tile
 	- 6789: 6 wait total
 - 3456 and 4567 are most versatile. 
 - try to keep basically
-- 
+
+
+
+# Scoring
+3 steps: 
+1. Count han
+	1. Figure out how many han you have
+	2. If 5 or more han, go to step 3
+2. Figure out how many fu you have
+	1. 4 or less han fu is needed
+3. Scored
+	1. ... get the score
+## Counting Han
+Need to be able to identify all yaku, and how much han for each. 
+8000 is the most important thing to know(mangan ron, non dealer)
+haneman = 1.5 mangan
+baiman = 2 mangan
+sanbaiman.. 3 mangan
+yakuman = 4 mangan
+Dealer scores are 1.5 non dealer scores
+| Han   | Name      | Ron (Non-dealer) | Ron (Dealer) | Tsumo (Non-dealer) | Tsumo (Dealer) |
+|-------|-----------|------------------|--------------|---------------------|----------------|
+| 5     | mangan    | 8000             | 12000         | 2000-4000           | 4000-all        |
+| 6–7   | haneman   | 12000            | 18000         | 3000-6000           | 6000-all        |
+| 8–10  | baiman    | 16000            | 24000         | 4000-8000           | 8000-all        |
+| 11–12 | sanbaiman | 24000            | 36000         | 6000-12000          | 12000-all       |
+| 13+*  | yakuman   | 32000            | 48000         | 8000-16000          | 16000-all       |
+
+## Figuring out fu or wtv
+Shortcut: 
+- Chiitoitsu = 25
+- 1 or more quad = kys
+- toitoi(all triplets) = 40
+- Pinfu
+	- ron = 30
+	- tsumo = 20 
+- closed without pinfu
+	- ron ~40 
+	- tsumo ~ 30
+- open hand : ~30 
+
+# Defense
+Consider if hand is in tenpai, how good potential hand is, how good opponent hand may have etc. 
+Can't do all this in limited time ofc
+
+When someone else in tenpai:
+- Offense(2 mor more conditions)
+	- Tenpai
+	- HIgh scoring
+	- good wait
+- Fold(two or more conditions)
+	- ishanten or worse
+	- bad wait
+	- low scoring
+How to tell if someone is in tenpai
+3 main possibilities: 
+- Riichi..duh
+- open tenpai
+- Closed tnepai and didn't call tenpai .... i.e dama... ignore this shi for now i ain't doin that
+
+High scoring means you need 7700 points at least(5200 if no red 5)
+fun fact. dual pon, kanchan, penchan, and single are bad waits... so yeah
+
+... 
+## How to fold? 
