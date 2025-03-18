@@ -53,5 +53,21 @@ ryankan - Double kanchan i.e 3 5 7, can make ryanmans and full wait
 - 2 wait on all of them. twice as much than normal kanchan
 - can sometimes be hidden so look to spot. 
 - useful when nishanten or worse. don't rely on too much
-Protorun + 1: - a proto run with a toirsu in it
+Protorun + 1: - a proto run with a toitsu in it
+- breaking these can be... inefficient
+- if u have to, break the weakest one first. 
+#### 4 Tile complex shapes
+Nobetan- stetched single: 4 consecutive tile
+- useful when in tenpai and ishanten
+- can be used as run and head candidates
+- can produce two runs
+- 6 patterns
+	- 1234: 6 wait total
+	- 2345: 7 wait total
+	- 3456: 8 wait total
+	- 4567: 8 wait total
+	- 5678: 7 wait total
+	- 6789: 6 wait total
+- 3456 and 4567 are most versatile. 
+- try to keep basically
 - 
