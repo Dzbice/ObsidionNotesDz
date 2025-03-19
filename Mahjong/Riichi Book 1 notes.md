@@ -106,6 +106,10 @@ The other blocks aren't considered as they are self sufficient
 Don't make any block too weak
 Blocks should have at most 3 tiles
 
+## Pursuing Yaku
+### Sanshoku
+Mixed triple sequence
+#### Floating
 
 # Scoring
 打点: (daten): hand value
