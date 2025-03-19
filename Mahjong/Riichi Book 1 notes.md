@@ -173,4 +173,34 @@ High scoring means you need 7700 points at least(5200 if no red 5)
 fun fact. dual pon, kanchan, penchan, and single are bad waits... so yeah
 
 ... 
-## How to fold? 
+
+## Basics
+Genbutsu of player x are tiles discarded by X themselves. After riichi, all tiles after that riichi are player x are genbutsu.
+3 100% safe tiles
+- Tile discarded by player to left
+- 4th honor tile with no possibility of thirteen orphans
+- absolute no chance tile
+	- Suppose you see 4 2p and 4P as well as 3 3P, that 4th 3P is safe for everyone
+### suji
+#1 worry is if they have ryanmen wait hand(when someone calls riichi) 
+People will call riichi on worst hands, but staistically 2/3 of riichi or ryanmen
+Suji a tactic to avoid dealing into ryanmen 
+Suji: 3 tile interval that corresponds to wait of a ryanmen
+ex: when hand has 2m3m, wait is 1m 4m. 
+This wait combo is called 14 suji/ 
+Basically.
+- if 4 in genbutsu
+	- Furiten for 1 and 7  if it's a wait of 1 4 or 4 7
+- if 5 genbutsu 
+	- furiten for 2 8 if ryanmen 2 5 or 5 8 
+- if 6 genbutus
+	- furiten for 3 9 if ryanmen 3 6 or 6 9 
+Suji tiles are safer than non suji tiles
+1 doesn't make 4 a suji tile tho. 
+4 only becomes safe if, 1 and 7 are in genbutsu
+5 only becomes safe if, 2 and 8 are in genbutsu
+6 only becomes safe if, 3 and 9 are in genbutus
+**Remember that suji is only safe against ryanmen hands**
+Players will call riichi on worst hands than ryanmen
+Suji more reliable for earlier discarded tiles
+Riichi suji = dangerous suji
