@@ -70,10 +70,45 @@ Nobetan- stetched single: 4 consecutive tile
 	- 6789: 6 wait total
 - 3456 and 4567 are most versatile. 
 - try to keep basically
+Nakabukure - Buldging float: floating tile in middle of a run
+- good at making ryanmen waits
+- ex: 3445, drawing 2356 makes one
+- consider 3M 4M 4M 5M 4P 6P 8P 8P 1S 3S 5S 5S 6S 8S
+	- discarding 4M and breaking nakabukure non ideal
+	- can discard 8S to maintain it
+	- Henry thoughts: 
+		- it depends, drawing a 2m nets the most points
+		- optimally would discard 4m, draw 2m, discard N and have a 2,5M wait. If draw 5M, sanshoku which extra han. Don't riichi apparently
+- When in tenpai, usually would rather have something else
+- So keep till like ishanten ig
 
+### Waits
+5 basic wait patterns
+- ryanmen: 34: 2,5: 2 kinds, 8 tiles
+- shanpon(dual pon): 3355:3,5: 2 kinds, 4 tiles
+- kanchan: 68: 7, 1 kind 4 tiles
+- penchan: 12: 3: 1 kind 4 tiles
+- tanki: 2: 2: 1 kind, 3 tiles
+
+yeah uh ryanmen good, tanki can change so it's versatile, the others not as good
+
+Stretched Single Wait + Semi Side wait
+Stretched single: 2345: 25 wait
+Semi side: 3345: 3-6 wait
+
+## 5 block method
+#### Locate A redundant tile
+Consider (5m 5m) (7m 8m) (2p 4p 5p 5p) (1s 3s 3s) (r r r) 
+Can be considered to have 5 blocks, unknown 4 runs or head yet. 
+1s is useful in it's block since it grants another wait, 2p is useless since the block already take 3p 
+The other blocks aren't considered as they are self sufficient
+
+Don't make any block too weak
+Blocks should have at most 3 tiles
 
 
 # Scoring
+打点: (daten): hand value
 3 steps: 
 1. Count han
 	1. Figure out how many han you have
